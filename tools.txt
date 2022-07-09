@@ -1,0 +1,33 @@
+
+
+{ SOAP }
+✓ Only XML
+✓ Slower
+✓ Oldest
+✓ More complex
+✓ It's protocol
+✓ Safer
+{ REST }
+✓ Multiple languages
+✓ Faster
+✓ Most popular
+✓ Easier
+✓ No protocol
+✓ Less secure
+
+
+API (Application Programming Interfaces) testing tools
+
+Soap UI  : https://www.soapui.org/downloads/soapui/
+Postman  : https://www.postman.com/ 
+
+Documentation
+
+Swagger: https://swagger.io/
+
+Extra
+
+Assertible: https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them
+W3schools - SOAP: https://www.w3schools.com/xml/xml_soap.asp
+Wikipedia - REST: https://en.wikipedia.org/wiki/Representational_state_transfer#History
+Ichi - public APIs:  https://ichi.pro/es/una-lista-seleccionada-de-100-api-publicas-geniales-y-divertidas-para-inspirar-su-proximo-proyecto-8109114517939
