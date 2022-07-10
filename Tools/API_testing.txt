@@ -1,5 +1,3 @@
-
-
 { SOAP }
 ✓ Only XML
 ✓ Slower
@@ -7,6 +5,7 @@
 ✓ More complex
 ✓ It's protocol
 ✓ Safer
+
 { REST }
 ✓ Multiple languages
 ✓ Faster
