@@ -1,5 +1,6 @@
 # QA tools and insights
 
+This repository aims to collect and share information related to manual QA.
 
 <img width="264" alt="postman-removebg-preview" src="https://user-images.githubusercontent.com/108837573/178121085-3295f602-a722-44d7-b56a-820fe38191e3.png">
 
